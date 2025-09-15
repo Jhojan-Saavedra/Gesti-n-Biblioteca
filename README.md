@@ -1,4 +1,7 @@
-Yised Patricia Robles 
-Larry Jan Pierr 
-Shanya Herrera Rubio
-Johan Saavedra
+Yised Patricia Robles;
+
+Larry Jan Pierr;
+
+Shanya Herrera Rubio;
+
+Johan Saavedra;
